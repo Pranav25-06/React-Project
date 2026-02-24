@@ -3,15 +3,7 @@
 A full-stack application with **React frontend** and **Node.js backend**. The project is structured so that the frontend 
 and backend run on separate ports during development but can be started together with a single command.  
 
-React-Project/
-├── backend/ # Node.js API
-│ ├── package.json
-│ └── server.js
-├── frontend/ # React App
-│ ├── package.json
-│ └── src/
-├── package.json # Root package.json for running both frontend & backend
-└── README.md
+
 
 ## **Setup & Run**
 
