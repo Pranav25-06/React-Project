@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "email": "user1@gmail.com",
+    "password": "user1@gmail.com",
+    "full_name": "User 1",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/1.jpg",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 2,
+    "email": "user2@gmail.com",
+    "password": "user2@gmail.com",
+    "full_name": "User 2",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/2.jpg",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 3,
+    "email": "user3@gmail.com",
+    "password": "user3@gmail.com",
+    "full_name": "User 3",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/3.jpg",
+    "designation": "UI/UX Designer"
+  },
+  {
+    "id": 4,
+    "email": "user4@gmail.com",
+    "password": "user4@gmail.com",
+    "full_name": "User 4",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg",
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 5,
+    "email": "user5@gmail.com",
+    "password": "user5@gmail.com",
+    "full_name": "User 5",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/5.jpg",
+    "designation": "QA Engineer"
+  },
+  {
+    "id": 6,
+    "email": "user6@gmail.com",
+    "password": "user6@gmail.com",
+    "full_name": "User 6",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/6.jpg",
+    "designation": "HR Manager"
+  },
+  {
+    "id": 7,
+    "email": "user7@gmail.com",
+    "password": "user7@gmail.com",
+    "full_name": "User 7",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/7.jpg",
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 8,
+    "email": "user8@gmail.com",
+    "password": "user8@gmail.com",
+    "full_name": "User 8",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg",
+    "designation": "Project Manager"
+  },
+  {
+    "id": 9,
+    "email": "user9@gmail.com",
+    "password": "user9@gmail.com",
+    "full_name": "User 9",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/9.jpg",
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 10,
+    "email": "user10@gmail.com",
+    "password": "user10@gmail.com",
+    "full_name": "User 10",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 11,
+    "email": "user11@gmail.com",
+    "password": "user11@gmail.com",
+    "full_name": "User 11",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/11.jpg",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 12,
+    "email": "user12@gmail.com",
+    "password": "user12@gmail.com",
+    "full_name": "User 12",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 13,
+    "email": "user13@gmail.com",
+    "password": "user13@gmail.com",
+    "full_name": "User 13",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/13.jpg",
+    "designation": "UI/UX Designer"
+  },
+  {
+    "id": 14,
+    "email": "user14@gmail.com",
+    "password": "user14@gmail.com",
+    "full_name": "User 14",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg",
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 15,
+    "email": "user15@gmail.com",
+    "password": "user15@gmail.com",
+    "full_name": "User 15",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/15.jpg",
+    "designation": "QA Engineer"
+  },
+  {
+    "id": 16,
+    "email": "user16@gmail.com",
+    "password": "user16@gmail.com",
+    "full_name": "User 16",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/16.jpg",
+    "designation": "HR Manager"
+  },
+  {
+    "id": 17,
+    "email": "user17@gmail.com",
+    "password": "user17@gmail.com",
+    "full_name": "User 17",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/17.jpg",
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 18,
+    "email": "user18@gmail.com",
+    "password": "user18@gmail.com",
+    "full_name": "User 18",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/18.jpg",
+    "designation": "Project Manager"
+  },
+  {
+    "id": 19,
+    "email": "user19@gmail.com",
+    "password": "user19@gmail.com",
+    "full_name": "User 19",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg",
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 20,
+    "email": "user20@gmail.com",
+    "password": "user20@gmail.com",
+    "full_name": "User 20",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/20.jpg",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 21,
+    "email": "user21@gmail.com",
+    "password": "user21@gmail.com",
+    "full_name": "User 21",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 22,
+    "email": "user22@gmail.com",
+    "password": "user22@gmail.com",
+    "full_name": "User 22",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/22.jpg",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 23,
+    "email": "user23@gmail.com",
+    "password": "user23@gmail.com",
+    "full_name": "User 23",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/23.jpg",
+    "designation": "UI/UX Designer"
+  },
+  {
+    "id": 24,
+    "email": "user24@gmail.com",
+    "password": "user24@gmail.com",
+    "full_name": "User 24",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/24.jpg",
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 25,
+    "email": "user25@gmail.com",
+    "password": "user25@gmail.com",
+    "full_name": "User 25",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/25.jpg",
+    "designation": "QA Engineer"
+  },
+  {
+    "id": 26,
+    "email": "user26@gmail.com",
+    "password": "user26@gmail.com",
+    "full_name": "User 26",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/26.jpg",
+    "designation": "HR Manager"
+  },
+  {
+    "id": 27,
+    "email": "user27@gmail.com",
+    "password": "user27@gmail.com",
+    "full_name": "User 27",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/27.jpg",
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 28,
+    "email": "user28@gmail.com",
+    "password": "user28@gmail.com",
+    "full_name": "User 28",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/28.jpg",
+    "designation": "Project Manager"
+  },
+  {
+    "id": 29,
+    "email": "user29@gmail.com",
+    "password": "user29@gmail.com",
+    "full_name": "User 29",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/29.jpg",
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 30,
+    "email": "user30@gmail.com",
+    "password": "user30@gmail.com",
+    "full_name": "User 30",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/30.jpg",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 31,
+    "email": "user31@gmail.com",
+    "password": "user31@gmail.com",
+    "full_name": "User 31",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/31.jpg",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 32,
+    "email": "user32@gmail.com",
+    "password": "user32@gmail.com",
+    "full_name": "User 32",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/32.jpg",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 33,
+    "email": "user33@gmail.com",
+    "password": "user33@gmail.com",
+    "full_name": "User 33",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/33.jpg",
+    "designation": "UI/UX Designer"
+  },
+  {
+    "id": 34,
+    "email": "user34@gmail.com",
+    "password": "user34@gmail.com",
+    "full_name": "User 34",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/34.jpg",
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 35,
+    "email": "user35@gmail.com",
+    "password": "user35@gmail.com",
+    "full_name": "User 35",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/35.jpg",
+    "designation": "QA Engineer"
+  },
+  {
+    "id": 36,
+    "email": "user36@gmail.com",
+    "password": "user36@gmail.com",
+    "full_name": "User 36",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/36.jpg",
+    "designation": "HR Manager"
+  },
+  {
+    "id": 37,
+    "email": "user37@gmail.com",
+    "password": "user37@gmail.com",
+    "full_name": "User 37",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/37.jpg",
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 38,
+    "email": "user38@gmail.com",
+    "password": "user38@gmail.com",
+    "full_name": "User 38",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/38.jpg",
+    "designation": "Project Manager"
+  },
+  {
+    "id": 39,
+    "email": "user39@gmail.com",
+    "password": "user39@gmail.com",
+    "full_name": "User 39",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/39.jpg",
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 40,
+    "email": "user40@gmail.com",
+    "password": "user40@gmail.com",
+    "full_name": "User 40",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/40.jpg",
+    "designation": "Software Engineer"
+  },
+  {
+    "id": 41,
+    "email": "user41@gmail.com",
+    "password": "user41@gmail.com",
+    "full_name": "User 41",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/41.jpg",
+    "designation": "Backend Developer"
+  },
+  {
+    "id": 42,
+    "email": "user42@gmail.com",
+    "password": "user42@gmail.com",
+    "full_name": "User 42",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/42.jpg",
+    "designation": "Frontend Developer"
+  },
+  {
+    "id": 43,
+    "email": "user43@gmail.com",
+    "password": "user43@gmail.com",
+    "full_name": "User 43",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/43.jpg",
+    "designation": "UI/UX Designer"
+  },
+  {
+    "id": 44,
+    "email": "user44@gmail.com",
+    "password": "user44@gmail.com",
+    "full_name": "User 44",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/44.jpg",
+    "designation": "DevOps Engineer"
+  },
+  {
+    "id": 45,
+    "email": "user45@gmail.com",
+    "password": "user45@gmail.com",
+    "full_name": "User 45",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg",
+    "designation": "QA Engineer"
+  },
+  {
+    "id": 46,
+    "email": "user46@gmail.com",
+    "password": "user46@gmail.com",
+    "full_name": "User 46",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/46.jpg",
+    "designation": "HR Manager"
+  },
+  {
+    "id": 47,
+    "email": "user47@gmail.com",
+    "password": "user47@gmail.com",
+    "full_name": "User 47",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/47.jpg",
+    "designation": "Data Analyst"
+  },
+  {
+    "id": 48,
+    "email": "user48@gmail.com",
+    "password": "user48@gmail.com",
+    "full_name": "User 48",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/48.jpg",
+    "designation": "Project Manager"
+  },
+  {
+    "id": 49,
+    "email": "user49@gmail.com",
+    "password": "user49@gmail.com",
+    "full_name": "User 49",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/women/49.jpg",
+    "designation": "Business Analyst"
+  },
+  {
+    "id": 50,
+    "email": "user50@gmail.com",
+    "password": "user50@gmail.com",
+    "full_name": "User 50",
+    "address": "Mumbai, India",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg",
+    "designation": "Software Engineer"
+  }
+]

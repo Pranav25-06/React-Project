@@ -1,0 +1,9 @@
+.content-wrapper {
+  padding-top: 80px; /* equal to navbar height */
+}
+
+@media (max-width: 991px) {
+  .content-wrapper {
+    padding-top: 120px; /* taller navbar on mobile */
+  }
+}
